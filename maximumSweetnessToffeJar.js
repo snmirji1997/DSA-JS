@@ -44,6 +44,10 @@ Constraints:
 ( 2 <= k <= n <= 10^5 )
 ( 1 <=price[i] <= 10^9 )
 Note: The function should return the result. */
+/*
+SORT
+BINARY SEARCH
+ */
 
 class Solution {
     maximumSweetness(n, price, k) {
